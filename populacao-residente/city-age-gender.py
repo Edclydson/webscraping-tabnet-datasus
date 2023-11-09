@@ -11,7 +11,16 @@ import os
 import shutil
 import re
 
+"""
+- A divisão da população é feita por Município, Idade e Gênero
+- Não é necessário informar nenhum dado para a aplicação
+- Serão baixados todos os anos disponíveis na plataforma
 
+
+Sugestões de melhorias
+- Buscar um ano específico
+
+"""
 
 
 def access_site():
